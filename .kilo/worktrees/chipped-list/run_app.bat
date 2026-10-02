@@ -1,0 +1,3 @@
+@echo off
+echo Launching student performance demo...
+streamlit run app.py
