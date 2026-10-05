@@ -1,6 +1,0 @@
-@echo off
-echo Installing dependencies...
-python -m pip install -r requirements.txt
-echo.
-echo Starting Jupyter Notebook...
-jupyter notebook

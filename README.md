@@ -46,11 +46,20 @@ Test set — students never seen in training:
 ├── Task8_StudentPerformance_ML.ipynb  # full workflow: cleaning → EDA → modeling → evaluation
 ├── app.py                              # Streamlit demo (input → predicted grade)
 ├── download_dataset.py                 # downloads the UCI dataset as StudentPerformance.csv
+├── StudentPerformance.csv              # dataset (UCI, 649 rows) — also auto-downloaded if missing
+├── student_model_v1.pkl                # deployed Random Forest + metadata (used by app.py)
+├── student_model_v2.pkl                # variant with business rule + calibrated interval
 ├── requirements.txt
 ├── run_notebook.bat                    # install deps + open Jupyter (Windows)
-├── run_app.bat                         # launch the Streamlit demo (Windows)
-└── student_model_v1.pkl                # trained Random Forest + metadata
+└── run_app.bat                         # launch the Streamlit demo (Windows)
 ```
+
+## Demo Video & Links
+
+- **GitHub:** [synent-task8-studentperformance-ahmedaminebejaoui](https://github.com/AhmedAmineBejaoui/synent-task8-studentperformance-ahmedaminebejaoui)
+- **Dataset:** [UCI — Student Performance](https://archive.ics.uci.edu/dataset/320/student-performance) + local `StudentPerformance.csv`
+- **Video (1–3 min):** _TODO — add Drive/YouTube link here_
+- **LinkedIn post:** _TODO — add LinkedIn post link here_
 
 ## How to run
 
