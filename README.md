@@ -58,8 +58,8 @@ Test set — students never seen in training:
 
 - **GitHub:** [synent-task8-studentperformance-ahmedaminebejaoui](https://github.com/AhmedAmineBejaoui/synent-task8-studentperformance-ahmedaminebejaoui)
 - **Dataset:** [UCI — Student Performance](https://archive.ics.uci.edu/dataset/320/student-performance) + local `StudentPerformance.csv`
-- **Video (1–3 min):** _TODO — add Drive/YouTube link here_
-- **LinkedIn post:** _TODO — add LinkedIn post link here_
+- **Video (1–3 min):** [Google Drive — Task 8 Demo](https://drive.google.com/file/d/1ETnTnrSMkgQ-t-QQUwcFpV2V9K6ewL7A/view?usp=sharing)
+- **LinkedIn post:** [LinkedIn — Student Performance post](https://lnkd.in/p/em4FXMGD)
 
 ## How to run
 
